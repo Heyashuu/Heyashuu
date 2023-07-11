@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Heyashuu
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C++ & Web development 
+- 🌱 I’m currently learning web development 
+
 
 <!---
 Heyashuu/Heyashuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
